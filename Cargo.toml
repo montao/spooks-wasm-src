@@ -1,7 +1,7 @@
 [package]
-name = "counter"
+name = "spooks-wasm"
 version = "0.1.1"
-authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
+authors = ["Niklas Rosencrantz <niklasro@gmail.com>"]
 edition = "2018"
 
 [dependencies]
