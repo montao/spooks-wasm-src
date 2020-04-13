@@ -9,4 +9,4 @@ stdweb = "0.4.20"
 getopts = "0.2"
 rand = {version = "0.7", features = ['stdweb']}
 easy_reader = "0.5.0"
-yew = { path = "../.." }
+yew = { version = "0.13.0", features = ["std_web"] }
